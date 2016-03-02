@@ -1,3 +1,7 @@
+---
+layout: post
+title: Example post
+---
 
 ## The Bacon
 
