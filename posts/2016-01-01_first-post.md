@@ -1,0 +1,16 @@
+
+## The Bacon
+
+Leberkas brisket shankle salami short loin meatball kevin ham bacon drumstick shank turkey filet mignon strip steak porchetta.
+Rump capicola spare ribs hamburger pork loin. Porchetta kevin ground round cow capicola.
+Landjaeger pork loin swine spare ribs **tail meatloaf** *strip steak* drumstick, frankfurter tongue.
+Cow sausage meatball, brisket strip steak filet mignon shoulder pancetta tongue meatloaf doner.
+Pig biltong kevin pork ground round ham hock jowl flank pork belly chicken corned beef cow bacon drumstick.
+Venison pork loin meatball ham beef ribeye.
+
+### Le Code
+
+```
+def bacon(yum)
+  return 'mmm'
+```
