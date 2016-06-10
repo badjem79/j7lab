@@ -1,3 +1,3 @@
-# bundleItalia
+# J7Lab
 
-Miglior sito di bundle tutto Italiano per risparmiare e fare del bene
+Dati del blog nel branch gh-pages
