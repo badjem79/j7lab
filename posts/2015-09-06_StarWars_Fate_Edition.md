@@ -24,7 +24,7 @@ Per lui “deve essere cattivo”, o almeno aver la possibilità di diventarlo i
 
 Mi viene quindi in mente che un personaggio stile Grievous fosse perfetto. Dato che siamo nel periodo sbagliato perchè non fare che sia proprio il figlio di Grievous?  L’avventura è ambientata in piena "Era della Ribellione”  e si creano comunque problemi e discontinuità storiche allucinanti nell’universo Star Wars, ma chi se ne frega, la storia è la nostra!
 
-![Cathar][(https://raw.githubusercontent.com/badjem79/bundleItalia/gh-pages/images/thumbnail.rhonun_tor___cathar_jedi.jpg "cathar")
+![Cathar](https://raw.githubusercontent.com/badjem79/bundleItalia/gh-pages/images/thumbnail.rhonun_tor___cathar_jedi.jpg "cathar")
 
 Questo personaggio, mezzo Kaleesh e mezzo droide super potenziato, è un ex cacciatore di taglie e da continuità all’immensio odio per i Jedi del padre, ma ancora di più odia l’Impero e i suoi capi.
 
