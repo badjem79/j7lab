@@ -1,9 +1,9 @@
 [
-	{ name: "Chi Sono", href: "#page/chisono", newWindow: false},
-	{ name: "About", href: "#page/about", newWindow: false},
-	{ name: "Blog", href: "#posts", newWindow: false},
-	{ name: "categorie", dropdown: [
-		{name: "Giochi", href: "#tag/games", newWindow: false},
-		{name: "Sviluppo", href: "#tag/sviluppo", newWindow: false}
+	{ "name": "Chi Sono", "href": "#page/chisono", "newWindow": false},
+	{ "name": "About", "href": "#page/about", "newWindow": false},
+	{ "name": "Blog", "href": "#posts", "newWindow": false},
+	{ "name": "categorie", "dropdown": [
+		{"name": "Giochi", "href": "#tag/games", "newWindow": false},
+		{"name": "Sviluppo", "href": "#tag/sviluppo", "newWindow": false}
 	]}
 ]
