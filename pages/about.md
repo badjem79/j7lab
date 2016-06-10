@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+hash: about
 subtitle: Dev & Games
 ---
 
