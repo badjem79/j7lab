@@ -34,4 +34,4 @@ L'account Aruba sul quale girava (e continua a girare) il sito è un linux basic
 
 Tempo due settimane il sito dovrebbe essere pronto, quindi seguirà post con altri dettagli.
 
-Per ora se qualcuno che legge ha necessità ed è interessato a soluzioni simili, non esiti a contattarmi a [info@j7lab.eu](info@j7lab.eu) con richieste o idee.
+Per ora se qualcuno che legge ha necessità ed è interessato a soluzioni simili, non esiti a contattarmi a [mailto:info@j7lab.eu](info@j7lab.eu) con richieste o idee.
