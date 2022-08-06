@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Star Wars - Fate Edition [Creazione personaggi e prime Scene]
+excerpt: Due settimane fa ho iniziato a giocare a Star Wars - Fate Edition con mia sorella, 20 anni, e il mio figliolo di 6 (e1/2)
 image: post-bg-06.jpg
 ---
 
@@ -24,7 +25,7 @@ Per lui “deve essere cattivo”, o almeno aver la possibilità di diventarlo i
 
 Mi viene quindi in mente che un personaggio stile Grievous fosse perfetto. Dato che siamo nel periodo sbagliato perchè non fare che sia proprio il figlio di Grievous?  L’avventura è ambientata in piena "Era della Ribellione”  e si creano comunque problemi e discontinuità storiche allucinanti nell’universo Star Wars, ma chi se ne frega, la storia è la nostra!
 
-![Cathar](https://raw.githubusercontent.com/badjem79/bundleItalia/gh-pages/images/thumbnail.rhonun_tor___cathar_jedi.jpg "cathar")
+![Cathar](https://raw.githubusercontent.com/badjem79/bundleItalia/gh-pages/images/thumbnail.rhonun_tor___cathar_jedi.jpg)
 
 Questo personaggio, mezzo Kaleesh e mezzo droide super potenziato, è un ex cacciatore di taglie e da continuità all’immensio odio per i Jedi del padre, ma ancora di più odia l’Impero e i suoi capi.
 
@@ -36,7 +37,7 @@ Si porta dietro un droide: R2D21 (con caratteristiche standard da manuale)
 
 La traccia dell’avventura che conduco è ricicilata a piene mani dalle super storiche Instant Adventures dei manuali Star Wars  D6 e si chiama “The Argovia Strike”. Durante la creazione dei personaggi ho introdotto parte dell’ambientazione e così  si è conclusa la prima sessione.
 
-![Figlio di Grevious](https://raw.githubusercontent.com/badjem79/bundleItalia/gh-pages/images/thumbnail.grevious.jpg "Figlio di Grevious")
+![Figlio di Grevious](https://raw.githubusercontent.com/badjem79/bundleItalia/gh-pages/images/thumbnail.grevious.jpg)
 
 *Prima Scena*
 
