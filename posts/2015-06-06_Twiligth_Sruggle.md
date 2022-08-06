@@ -7,7 +7,7 @@ tags: games, Twiligth Sruggle
 ---
 ...ed è veramente una lotta per me e mia sorella venire a capo di quel malloppazzo che chiamano “regole” per questo gioco.
 
-![Twiligth Sruggle Foto 1](https://raw.githubusercontent.com/badjem79/bundleItalia/gh-pages/images/thumbnail.twi1.png "Twiligth Sruggle Foto 1")
+![Twiligth Sruggle Foto 1](https://raw.githubusercontent.com/badjem79/bundleItalia/gh-pages/images/thumbnail.twi1.png)
 
 Dopo aver tentato un mese fa e due settimane fa, l’altro ieri ci siamo incamponiti, abbiamo guardato dei video su youtubbe, seguendo il setup passo passo. E dopo un clamoroso errore in prima battuta, abbiamo resettato dall’inizio e finalmente siamo riusciti a far 2 turni completi (su 10), con mio tentativo fallimentare di arrivare a 30 e vincere.
 
