@@ -2,6 +2,7 @@
 layout: post
 title: Nuovi Acquisti
 image: post-bg-04.jpg
+excerpt: Ieri ho comprato delle cose supertoste su Amazon
 tags: Games, 7 Wonders, Jaipur, Star Wars impero contro ribellione
 ---
 Ieri ho comprato delle cose supertoste su Amazon
