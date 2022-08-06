@@ -3,10 +3,11 @@ layout: post
 title: DnD Classic - L'avventura ha inizio.
 subtitle: Più OSR per tutti.
 image: dnd_basic.png
+excerpt: Da qualche settimana con il figlio abbiamo iniziato a leggere seriamente il libro del giocatore e il libro del dungeon master della mitica scatola rossa
 tags: dnd, gdr, games
 ---
 
-Da qualche settimana con mio figlio abbiamo iniziato a leggere seriamente  il libro del giocatore e il libro del dungeon master
+Da qualche settimana con il figlio abbiamo iniziato a leggere seriamente  il libro del giocatore e il libro del dungeon master
 della mitica scatola rossa, molto bella tutta l'introduzione molto passo passo ai giochi di ruolo in generale, anche se un po'
 secondo me le regole non hanno molto senso, quella roba dei tiri salvezza e dei mdificatori, invece di usare direttamente le stat
 mi ha mandato ai pazzi, nonostante tutto abbiamo deciso di affrontare la prima avventura "vera" che si trova nel manuale del DM.
