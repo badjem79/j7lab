@@ -2,6 +2,7 @@
 layout: post
 title: Twiligth Sruggle
 image: post-bg-06.jpg
+excerpt: ...ed è veramente una lotta per me e mia sorella venire a capo di quel malloppazzo
 tags: games, Twiligth Sruggle
 ---
 ...ed è veramente una lotta per me e mia sorella venire a capo di quel malloppazzo che chiamano “regole” per questo gioco.
