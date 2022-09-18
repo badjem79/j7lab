@@ -11,4 +11,6 @@ RAGA! Anche io verrò pubblicato, in una melense e stucchevole raccolta di "lett
 
 Al giorno d'oggi se non sei in un libro non sei nessuno, vi guardo tutti dall'altro in basso 😛
 
+![Lettere ai nostri figli](https://raw.githubusercontent.com/badjem79/j7lab/gh-pages/images/lettere.jpg)
+
 Link qui: [Lettere ai nostri figli](https://www.ivvi.it/product/lettere-ai-nostri-figli/), ma se vi interessa scrivetemi a [info@j7lab.eu](mailto:info@j7lab.eu) e ve lo prendo con un piccolo sconto!
